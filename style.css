@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: liner-gradient (#59f0e3, #f27cee);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px #eb5d40;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: forestgreen;
+}
